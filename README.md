@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Currently: I'm in my second and final year at Noroff, studying Front-end Development.<br><br>🎯 Goal: I’m committed to continually challenging myself to become a better developer, with the aim of landing a role that allows me to grow even more after my studies.<br><br>Hobbies:<br>🥊 Muay-Thai <br>🎵 making Music<br>🥾Hiking<br><br>🧩 I feel at my best when solving puzzles, whether it’s in the Muay Thai ring or perfecting a melody in Ableton</p>
+<p align="left">📚 Currently: I'm in my second and final year at Noroff, studying Front-end Development.<br><br>🎯 Goal: I’m committed to continually challenging myself to become a better developer, with the aim of landing a role that allows me to grow even more after my studies.<br><br>Hobbies:<br>🥊 Muay-Thai <br>🎵 making Music<br>🥾Hiking<br><br>🧩 I feel at my best when solving puzzles, whether it’s in VS-code, the Muay Thai ring or perfecting a melody in Ableton</p>
 
 ###
 
