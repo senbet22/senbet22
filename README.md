@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Currently: I recently completed a 2.year proffesional degree in Frontend development and actively looking for work while working on projects and staying updated.<br><br>🎯 Goal: I’m committed to continually challenging myself to become a better developer, with the aim of landing a role that allows me to grow even more.<br><br>Hobbies:<br>🥊 Muay-Thai <br>🎵 Music production<br>🥾Hiking<br><br>🧩 I feel at my best when learning something new or solving puzzles</p>
+<p align="left">📚 Currently: I recently completed a 2.year proffesional degree in Frontend development and actively looking for work while working on projects and staying updated.<br><br>🎯 Goal: I’m committed to continually challenging myself to become a better developer, with the aim of landing a role that allows me to grow even more.<br><br>Hobbies:<br>🥊 Muay-Thai <br>🎵 Music production<br>🥾Hiking<br><br>🧩 I feel at my best when learning something new!</p>
 
 ###
 
