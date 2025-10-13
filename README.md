@@ -36,7 +36,7 @@
 
 ###
 
-<h2 align="left">Software</h2>
+<h2 align="left">Tools</h2>
 
 ###
 
