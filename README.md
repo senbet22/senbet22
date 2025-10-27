@@ -1,54 +1,46 @@
 <h1 align="left">Hey I'm Senbet, welcome to my Github! 😄</h1>
 
-###
+##
 
-<p align="left">I am a Front-end developer</p>
+<h3 align="left">I am a Front-end developer</h3>
 
-###
+##
 
-<h2 align="left">About me</h2>
+<p align="left">
+  I recently completed a two-year education in Frontend Development and am now looking for my first opportunity in the industry. 
+  I'm motivated, eager to learn, and ready to contribute while continuing to grow as a developer. 
 
-###
-
-<p align="left">📚 Currently:<br> I recently completed a 2.year proffesional degree in Frontend development and actively looking for work while working on projects and staying updated.<br><br>🎯 Goal:<br> I’m committed to continually challenging myself to become a better developer, with the aim of landing a role that allows me to grow even more.<br><br>Hobbies:<br>🥊 Muay-Thai <br>🎵 Music production<br>🥾Hiking<br></p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-</div>
+  🌱 <b>Hobbies:</b><br>
+  🥋 Martial Arts<br>
+  🎵 Music Production<br>
+  🥾 Hiking and exploring nature for inspiration
+</p>
 
 ###
 
-<h2 align="left">Tools</h2>
+<h2 align="left">My teck stack</h2>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
-</div>
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+
+###
+
+<h2 align="left">My tools</h2>
+
+###
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)
+
 
 ###
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=senbet22&show_icons=true&theme=tokyonight)
