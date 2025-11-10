@@ -13,7 +13,7 @@
   🌱 <b>Hobbies:</b><br>
   🥋 Martial Arts<br>
   🎵 Music Production<br>
-  🥾 Hiking and exploring nature for inspiration
+  🥾 Hiking and exploring nature
 </p>
 
 ###
