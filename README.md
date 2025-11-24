@@ -38,10 +38,10 @@
 <h2 align="left">My tools</h2>
 
 ###
-![Figma](https://img.shields.io/badge/Figma-1e1e1e?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Postman](https://img.shields.io/badge/Postman-1e1e1e?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![VS Code](https://img.shields.io/badge/VS_Code-1e1e1e?style=for-the-badge&logo=visualstudiocode&logoColor=0078D4)
-![Behance](https://img.shields.io/badge/Behance-1e1e1e?style=for-the-badge&logo=behance&logoColor=1769FF)
+![Figma](https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Postman](https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=0078D4)
+![Behance](https://img.shields.io/badge/Behance-0f172a?style=for-the-badge&logo=behance&logoColor=1769FF)
 
 
 ###
