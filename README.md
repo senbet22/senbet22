@@ -43,7 +43,3 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=0078D4)
 ![Behance](https://img.shields.io/badge/Behance-0f172a?style=for-the-badge&logo=behance&logoColor=1769FF)
 
-
-###
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=senbet22&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
