@@ -41,7 +41,6 @@
 ![Figma](https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Postman](https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=0078D4)
-![Behance](https://img.shields.io/badge/Behance-0f172a?style=for-the-badge&logo=behance&logoColor=1769FF)
 
 ## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=senbet22&theme=dark&hide_border=false)
