@@ -42,11 +42,4 @@
 ![Postman](https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=0078D4)
 
-## 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=senbet22&theme=dark&hide_border=false)
 
-
----
-[![](https://visitcount.itsvg.in/api?id=senbet22&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
