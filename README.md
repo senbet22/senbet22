@@ -42,4 +42,4 @@
 ![Postman](https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=0078D4)
 
-
+![Senbet's GitHub stats](https://github-readme-stats.vercel.app/api?username=senbet22&show_icons=true&theme=radical)
