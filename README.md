@@ -2,18 +2,14 @@
 
 ##
 
-<h3 align="left">I am a Front-end developer</h3>
+<h3 align="left">Fullstack Developer</h3>
 
 ##
 
 <p align="left">
-  I recently completed a two-year education in Frontend Development and am now looking for my first opportunity in the industry. 
-  I'm motivated, eager to learn, and ready to contribute while continuing to grow as a developer. 
+I am a Frontend Developer currently expanding into backend development through a course at Kodehode, working with .NET, C# and SQL. On my way to becoming a fullstack developer, I'm motivated, eager to learn, and ready to contribute while continuing to grow.
 
-  🌱 <b>Hobbies:</b><br>
-  🥋 Martial Arts<br>
-  🎵 Music Production<br>
-  🥾 Hiking and exploring nature
+🌱 Hobbies: 🥋 Martial Arts 🎵 Music Production 🥾 Hiking and exploring nature
 </p>
 
 ###
